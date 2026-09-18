@@ -12,6 +12,8 @@
 
 `PUDGE`
 
+[PUDGE][1]
+
 # **СПИСКИ**
 
 - СОЛЬ
@@ -28,7 +30,7 @@
 
 [MY TIK TOK](https://www.tiktok.com/@milozis)
 
-https://www.tiktok.com/@milozis
+[1]: https://www.tiktok.com/@milozis 
 
 [MY STEAM](https://steamcommunity.com/profiles/76561199435490548/  " ТУТ Я ИГРАЮ")
 
